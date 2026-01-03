@@ -88,3 +88,8 @@ Frontend
 
 •	Node.js & npm
 
+## Results
+
+# Welcome to Food Delivery App
+
+<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/3fd5955f-6373-4c2f-97a7-6734fc559547" />
