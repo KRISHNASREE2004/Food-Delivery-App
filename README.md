@@ -90,6 +90,30 @@ Frontend
 
 ## Results
 
-# Welcome to Food Delivery App
+# fig.1: Welcome to Food Delivery App
 
-<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/3fd5955f-6373-4c2f-97a7-6734fc559547" />
+<img width="1907" height="903" alt="image" src="https://github.com/user-attachments/assets/db88cc18-38b6-4295-a41f-6c3515c51797" />
+
+# fig.2: Home Page of FoodHub
+
+<img width="1862" height="712" alt="image" src="https://github.com/user-attachments/assets/f797be39-2f21-4888-b313-3cbcb0234a50" />
+
+# fig.3: Restaurant Listing Page of FoodHub with Search and Filter Options
+
+<img width="1846" height="867" alt="image" src="https://github.com/user-attachments/assets/89a40c41-a70e-47b5-9d78-f1473c3bb19b" />
+
+# fig.4: Liked Restaurants Section with Quick Menu Access
+
+<img width="1083" height="542" alt="image" src="https://github.com/user-attachments/assets/552968a1-b399-4c87-b238-e39bdaef9e6f" />
+
+# fig.5: User Interface for Selecting Menu Items and Placing Orders in FoodHub
+
+<img width="1837" height="851" alt="image" src="https://github.com/user-attachments/assets/b6b67809-c212-4297-ad17-f047ef6cf0ab" />
+
+# fig.6: Order History Page Showing Order Status and Tracking Stages
+
+<img width="1897" height="863" alt="image" src="https://github.com/user-attachments/assets/80f2d1be-4671-43e6-b7a4-d733a1da8f73" />
+
+ 
+
+
